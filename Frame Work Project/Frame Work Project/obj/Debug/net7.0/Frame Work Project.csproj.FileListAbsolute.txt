@@ -1,0 +1,5 @@
+C:\Users\Aykhankhm\source\repos\Frame Work Project\Frame Work Project\obj\Debug\net7.0\Frame Work Project.csproj.AssemblyReference.cache
+C:\Users\Aykhankhm\source\repos\Frame Work Project\Frame Work Project\obj\Debug\net7.0\Frame Work Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhankhm\source\repos\Frame Work Project\Frame Work Project\obj\Debug\net7.0\Frame Work Project.AssemblyInfoInputs.cache
+C:\Users\Aykhankhm\source\repos\Frame Work Project\Frame Work Project\obj\Debug\net7.0\Frame Work Project.AssemblyInfo.cs
+C:\Users\Aykhankhm\source\repos\Frame Work Project\Frame Work Project\obj\Debug\net7.0\Frame Work Project.csproj.CoreCompileInputs.cache
